@@ -1,0 +1,26 @@
+{
+  "name": "social-steam-app",
+  "version": "0.0.1",
+  "homepage": "https://github.com/aoisensi/social-steam-app",
+  "authors": [
+    "aoisensi <aoisensi@mail.com>"
+  ],
+  "description": "steam app widget polymer element",
+  "main": "social-steam-app.html",
+  "keywords": [
+    "webcomponents",
+    "polymer",
+    "steam"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "~0.5.5"
+  }
+}
